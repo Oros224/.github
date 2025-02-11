@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We build tools and services 🙂
+### We build tools and services 🙂
 <!--
 
 **Here are some ideas to get you started:**
